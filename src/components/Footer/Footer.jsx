@@ -87,7 +87,7 @@ export default function Footer() {
                   className=""
                 >
                   <i className={"fa fa-map-marker-alt "}></i> O u r L o c a t i
-                  o n s
+                  o n s s
                 </a>
                 {/*<div className={`${styles.widget}`}>*/}
                 {/*  <h5>Social Madia</h5>*/}
